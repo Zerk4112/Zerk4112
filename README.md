@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Zerk4112
-- 👀 I’m interested in Python development and game development in PICO-8, and general automation.
-- 🌱 I’m currently learning Python / MicroPython, PICO-8, vRealize Automation, Home Assistant, Node Red, ESP32 Development...
-- 💞️ I’m looking to collaborate on Game Dev projects and Python Development
-- 📫 How to reach me: zerkdev09@gmail.com
+## Hey there, I'm Zachariah Covington (ZerkDev)! 👋
 
-<!---
-Zerk4112/Zerk4112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🚀 I'm a coding enthusiast with a passion for game development in PICO-8.
+- 🔧 I'm deeply interested in automation, from scripting in Python to exploring vRealize Automation (Now called Aria).
+- 🌱 Currently, I'm diving into various technologies, including MicroPython, Home Assistant, Node Red, and ESP32 development.
+- 💡 I'm always eager to collaborate on exciting game development projects and Python-based endeavors.
+- 📫 Feel free to [email me](mailto:zerkdev09@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/zachariah-covington).
+
+### Notable Projects
+- 🎮 [Memory Matching Madness](https://zachcovi.com/posts/memory-matching-madness/): A card matching game with a twist, created in PICO-8.
+- 🌐 [PICO-8 Utility Collection](https://github.com/Zerk4112/PICO-8-Util-Collection): A collection of utilities and libraries that I use in my PICO-8 projects.
+
+[![ZerkDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerk4112)](https://github.com/anuraghazra/github-readme-stats)
