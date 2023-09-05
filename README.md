@@ -1,6 +1,6 @@
 ## Hey there, I'm Zachariah Covington (ZerkDev)! 👋
 
-- 🚀 I'm a coding enthusiast with a passion for game development in PICO-8.
+- 🚀 I'm a coder with a passion for automation and game development in PICO-8.
 - 🔧 I'm deeply interested in automation, from scripting in Python to exploring vRealize Automation (Now called Aria).
 - 🌱 Currently, I'm diving into various technologies, including MicroPython, Home Assistant, Node Red, and ESP32 development.
 - 💡 I'm always eager to collaborate on exciting game development projects and Python-based endeavors.
